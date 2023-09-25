@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="d46454b447e1b11006f1c787a46d4350" extends="task" label="Stories" max_length="40" name="x_755734_str_colle_stories" type="collection"/>
+    <element db_object_id="d46454b447e1b11006f1c787a46d4350" extends="task" label="Stories" max_length="40" name="x_755734_str_colle_stories" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Technical Solution" max_length="250" name="u_technical_solution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Theme" max_length="40" name="u_theme" type="string">
+            <choice>
+                <element inactive_on_update="false" label="StoryCollectionApp" sequence="0" value="12"/>
+                <element inactive_on_update="false" label="Scripting" sequence="1" value="13"/>
+                <element inactive_on_update="false" label="ITSM" sequence="2" value="14"/>
+            </choice>
+        </element>
+    </element>
 </database>
