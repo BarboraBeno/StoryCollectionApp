@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Collection of the stories</description>
+        <device_type>browser</device_type>
+        <hint>Collection of the stories</hint>
+        <name/>
+        <order/>
+        <roles>x_755734_str_colle.admin,x_755734_str_colle.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-25 07:15:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7f74d0b447e1b11006f1c787a46d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STR Collection</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="STR Collection" source="x_755734_str_colle">6f141cb047e1b11006f1c787a46d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="STR Collection">6f141cb047e1b11006f1c787a46d4340</sys_scope>
+        <sys_update_name>sys_app_application_7f74d0b447e1b11006f1c787a46d4344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-25 07:15:43</sys_updated_on>
+        <title>STR Collection</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
