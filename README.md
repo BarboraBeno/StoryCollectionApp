@@ -1,1 +1,1 @@
-# StoryCollectionApp
+# StoryCollectionApp SN
